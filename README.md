@@ -1,3 +1,3 @@
 # my-work-demo
-demo repository
+Demo Repository
 Author-Hanish
